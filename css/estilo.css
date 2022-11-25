@@ -1,0 +1,13 @@
+.circulo{
+    width:50% ;
+    margin: auto;
+}
+.circulo path{
+    stroke:rgb(202, 26, 182);
+    stroke-width: 3px;
+}
+.circulo :hover{
+    fill:aqua;
+    cursor: pointer;
+    stroke:rgb(202, 26, 182);
+}
